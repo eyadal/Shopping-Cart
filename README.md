@@ -1,4 +1,6 @@
 # Shopping-Cart
+Start application by typing in the terminal " npm run dev "
+
 Shopping cart with React and Typescript.
 Add products to you shopping cart in the store page. 
 You can add multiply product and se the total cost.
