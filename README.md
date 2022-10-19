@@ -1,7 +1,7 @@
 # Shopping-Cart
 
 #DEMO
-* Visit demo[site](https://eyad-cart.surge.sh/)
+* Visit demo [site](https://eyad-cart.surge.sh/)
 
 #Run the app
 
