@@ -1,4 +1,12 @@
 # Shopping-Cart
+
+#DEMO
+Visit demo [site](https://eyad-cart.surge.sh/)
+
+#Run the app
+
+Download project
+npm install
 Start application by typing in the terminal " npm run dev "
 
 Shopping cart with React and Typescript.
